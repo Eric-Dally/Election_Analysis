@@ -6,8 +6,8 @@ I have a completed an election audit for the Colorado Board of Elections by comp
 
 1. Find total votes cast
 2. Organize Canidate List
-3. Tally the number of votes each candidate recieved
-4. Establish a winning percentage for each candidate
+3. Tally the number of votes per candidate
+4. Establish winning percentages for each candidate
 5. Determine the winner of the election
 
 ## Resources
